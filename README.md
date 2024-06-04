@@ -20,7 +20,7 @@ Para o desenvolvimento, você deverá adicionar um método de adicionar itens na
 O método de adição de itens na fila deve aceitar objetos conforme demonstrado acima, com propriedades de "name" e "priority".
 Os métodos de remoção dos itens da fila e de "front" devem retornar apenas o "name" do item.
 
-O desafio deve ser completado entre 2-4 horas. Evite utilizar frameworks e bibliotecas, para minizar o tempo de setup e a complexididade.
+O desafio deve ser completado em uma sessão de screening com duração de 1h. Evite utilizar frameworks e bibliotecas, para minizar o tempo de setup e a complexididade.
 Foque em implementar funcionalidades principais, evitando "features" desnecessárias.
 Critérios da avaliação:
 
